@@ -1,3 +1,4 @@
+# 1 вариант
 import math
 a=float(input("введите a: "))  #задаю переменные
 b=float(input("введите b: "))
